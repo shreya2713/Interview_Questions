@@ -1079,5 +1079,10 @@
     "question": "How to centre a div in body?"
     "answerLink": "Add display flex, justify-conntent centre,align-items centre to body tag in css file ."
 },
+ {
+    "id": "206"
+    "question": "How many hours you should prepare for an Interview"
+    "answerLink": "Atleast 1 to 2 hours"
+},
 ]
 
